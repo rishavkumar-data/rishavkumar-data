@@ -41,9 +41,22 @@ I will be sharing my projects, learning progress and analysis work here.
 
 ---
 
-## 🚀 Projects I'm Building
+## 🚀 Projects
 
-* **Sales Data Analysis** — Python, Pandas, Matplotlib, Seaborn
-* **Sales Dashboard** — Excel / Power BI
-* **SQL Business Data Analysis** — SQL
+Projects will be added here as I build them.
 
+- 📊 Excel Sales Analysis — Coming Soon
+- 🗄️ E-Commerce SQL Analysis — Coming Soon
+- 🐍 Customer Data Analysis using Python — Coming Soon
+- 📈 Retail Business Dashboard using Power BI — Coming Soon
+
+ ---
+
+## 🎯 Career Goal
+
+Looking for entry-level opportunities in:
+
+- Data Analyst
+- Junior Data Analyst
+- BI Analyst
+- Reporting Analyst
